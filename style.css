@@ -28,9 +28,6 @@
 .btn1{
     margin-left: 22%;
 }
-/* .blue{
-    padding: 235px 0px !important;
-} */
 .inbox16{
     text-align: center !important;
 }
@@ -141,9 +138,6 @@
     height: 450px;
     margin-top: 15px; 
    }
-   .inbox8{
-    text-align: center;
-   }
 .blue{
     text-align: center;
     color: #FFF;
@@ -173,15 +167,7 @@
     .inbox15{
         text-align: center;
     }
-    /* .blue{
-        padding: 308px 0px;
-    } */
-}
-@media(max-width:768px){
-    /* .blue{
-    padding: 350px 5px;
-   } */
-}
+ }
 @media(max-width:1199px){
     .nav-link{
         font-size: 12px;
@@ -257,6 +243,9 @@
 }
 .inbox16{
     text-align: start;
+}
+.send{
+     text-align: center !important;
 }
 .overallsection{
     overflow: hidden;
